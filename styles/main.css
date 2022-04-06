@@ -1,7 +1,7 @@
 :root{
     font-size: 60%;
 
-    --color-background: #F0F0F7;
+    --color-background: #1F2421/*#F0F0F7*/;
     --color-primary-lighter: #9871F5;
     --color-primary-light: #916BEA;
     --color-primary: #8257E5;
