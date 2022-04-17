@@ -17,9 +17,13 @@
     padding: 1.6rem 0;
 }
 
+.page-header .top-bar-container a img{ 
+    height: 7vh;
+}
 .page-header .top-bar-container a { 
     height: 3.2rem;
     transition: opacity 0.2s;
+    
 }
 
 .page-header .top-bar-container a:hover {
@@ -27,7 +31,8 @@
 }
 
 .page-header .top-bar-container > img {
-    height: 1.6rem;
+    height: 3.6rem;
+    margin-top: 15px;
 }
 
 .page-header .header-content {
@@ -47,7 +52,7 @@
     max-width: 30rem;
     font-size: 1.6rem;
     line-height: 2.6rem;
-    color: var(--color-text-in-primary);
+    color: #FFFFFF;
     margin-top: 2.4rem;
 }
 
