@@ -1,10 +1,10 @@
 :root{
     font-size: 60%;
 
-    --color-background: #1F2421/*#F0F0F7*/;
+    --color-background: #F0F0F7;
     --color-primary-lighter: #0fce4e/*#9871F5*/;
     --color-primary-light: #24b755/*#916BEA*/;
-    --color-primary: #09725f/*#8257E5*/;
+    --color-primary: #00b7ff/*#8257E5*/;
     --color-primary-dark: #774DD6;
     --color-primary-darker: #6842C2;
     --color-secondary: #1a30e3;
