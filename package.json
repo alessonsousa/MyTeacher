@@ -11,7 +11,7 @@
   "devDependencies": {
     "nodemon": "^2.0.4"
   },
-  "description": "<h1 align=\"center\">     <img alt=\"Proffy\" title=\"Proffy\" src=\".github/logo.svg\" /> </h1>",
+  "description": "<h1 align=\"center\">     <img alt=\"Proffy\" title=\"MyTeacher\" src=\".github/logo.svg\" /> </h1>",
   "version": "1.0.0",
   "main": "index.js",
   "keywords": [],
