@@ -29,10 +29,6 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 Estudos online que ajuda pessoas a encontrarem professores online.
 
-## 🔖 Layout
-
-Você pode visualizar o layout do projeto através [desse link](https://www.figma.com/file/GHGS126t7WYjnPZdRKChJF/Proffy-Web). Lembrando que você precisa ter uma conta no [Figma](http://figma.com/) para acessá-lo.
-
 ## :memo: Licença
 
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
