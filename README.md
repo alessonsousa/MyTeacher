@@ -26,7 +26,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-Estudos online que ajuda pessoas a encontrarem professores online.
+Plataforma de estudos online que ajuda pessoas a encontrarem professores online.
 
 ## :memo: Licença
 
