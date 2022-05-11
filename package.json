@@ -16,5 +16,13 @@
   "main": "index.js",
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alessonsousa/MyTeacher.git"
+  },
+  "bugs": {
+    "url": "https://github.com/alessonsousa/MyTeacher/issues"
+  },
+  "homepage": "https://github.com/alessonsousa/MyTeacher#readme"
 }
