@@ -2,7 +2,6 @@
 const express = require('express')
 const server = express()
 
-const port = process.env.PORT || 5500
 
 const  {
     pageLanding,
@@ -31,4 +30,4 @@ server
 .get("/give-classes", pageGiveClasses)
 .post("/save-classes", saveClasses)
 // start do servidor
-.listen(port)
+.listen( process.env.PORT || 5500)
