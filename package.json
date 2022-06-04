@@ -2,7 +2,12 @@
   "name": "nlw",
   "scripts": {
     "dev": "nodemon src/server.js",
-    "start": "node src/server.js"
+    "start": "node src/server.js",
+    "build": "node build",
+   "heroku-prebuild": "echo This runs before Heroku installs dependencies.",
+   "heroku-postbuild": "echo This runs after Heroku installs dependencies, but before Heroku prunes and caches dependencies.",
+   "heroku-cleanup": "echo This runs after Heroku prunes and caches dependencies." 
+   
   },
   "dependencies": {
     "express": "^4.18.1",
