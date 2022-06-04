@@ -9,6 +9,10 @@
     "nunjucks": "^3.2.2",
     "sqlite-async": "^1.1.0"
   },
+  "engines": {
+    "node": ">= 6.9.4",
+    "npm": ">= 4.4.0"
+  },
   "devDependencies": {
     "nodemon": "^2.0.4"
   },
