@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="MyTeacher" title="MyTeacher" src=".github/logo.png" />
+ <a href="https://mtea.herokuapp.com/"><img alt="MyTeacher" title="MyTeacher" src=".github/logo.png" /></a>
 </h1>
 
 <p align="center">
@@ -13,7 +13,7 @@
 <br>
 
 <p align="center">
-  <img alt="MyTeacher" src=".github/MyTeacher.png" width="100%">
+ <a href="https://mtea.herokuapp.com/"> <img alt="MyTeacher" src=".github/MyTeacher.png" width="100%"></a>
 </p>
 
 ## 🚀 Tecnologias
@@ -28,6 +28,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 ## 💻 Projeto
 
 Plataforma de estudos online que ajuda pessoas a encontrarem professores online.
+- [Acessar a plataforma](https://mtea.herokuapp.com/)
 
 ## 📱Versão mobile
 
